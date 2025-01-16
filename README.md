@@ -15,28 +15,28 @@ I cleaned the data into a form that I would easily analyze the data.
 ### 3) Data Analysis
 Complete data analysis using Exploratory Data Analysis (EDA) questions to obtain insights from the data on how the duka was performing
 #### Exploratory Data Analysis Questions
-Revenue
+###### Revenue
 1)overall 2) Monthly Weekly 3) Daily
 
-Gross Profit
+###### Gross Profit
 1)overall 2) Monthly Weekly 3) Daily
 
-Purchases
+###### Purchases
 1)overall 2) Monthly Weekly3) Daily
 
-Expenses
+###### Expenses
 1)overall 2) Monthly Weekly 3) Daily
 
-Transaction Modes
+###### Transaction Modes
 1)overall 2) Monthly Weekly 3) Daily
 
-Net Profit
+###### Net Profit
 1)overall 2) Monthly Weekly 3) Daily
 
-Best products sold
+###### Best products sold
 1)overall 2) Monthly Weekly 3) Daily
 
-Best products sold profit
+###### Best products sold profit
 1)overall 2) Monthly Weekly 3) Daily
 
 ## The Analysis Report
