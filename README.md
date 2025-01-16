@@ -62,10 +62,10 @@ The day with the highest sales was Thursday 1st August with Ksh 6,655 in sales f
 The day with the lowest sales was Friday October 18th with Ksh. 1330 in sales
 ### Transaction Mode Analysis 
 #### Overall Transaction Mode Analysis for Revenue
-Mpesa - Ksh 228,984.30 - 44.28% of Revenue
-Cash - Ksh 149,683.25 - 28.94%  of Revenue
-Credit - Ksh 137,411.00 - 26.57% of Revenue
-Debit - Ksh 1,085.00 - 0.21% of Revenue
+###### Mpesa - Ksh 228,984.30 - 44.28% of Revenue
+###### Cash - Ksh 149,683.25 - 28.94%  of Revenue
+###### Credit - Ksh 137,411.00 - 26.57% of Revenue
+###### Debit - Ksh 1,085.00 - 0.21% of Revenue
 ### Gross Profit
 #### Overall Gross Profit
 The overall gross profit was Ksh. 119370.80 
