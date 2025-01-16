@@ -1,7 +1,7 @@
 # DukaAnalysis
 This is complete analysis of a local duka finances from July 2024 to December 2024
 ## Assumptions
-1. The data is accurate and complete
+1. The data was accurate and complete
 2. All the payments via mobile money in sales was through Mpesa Till
 3. The data of July started halfway through the month and December was upto 5th
 4. 
