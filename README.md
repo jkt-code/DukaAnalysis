@@ -14,6 +14,30 @@ I imported data from an excel file with sales, purchases, and other data in diff
 I cleaned the data into a form that I would easily analyze the data.
 ### 3) Data Analysis
 Complete data analysis using Exploratory Data Analysis (EDA) questions to obtain insights from the data on how the duka was performing
+#### Exploratory Data Analysis Questions
+Revenue
+1)overall 2) Monthly Weekly 3) Daily
+
+Gross Profit
+1)overall 2) Monthly Weekly 3) Daily
+
+Purchases
+1)overall 2) Monthly Weekly3) Daily
+
+Expenses
+1)overall 2) Monthly Weekly 3) Daily
+
+Transaction Modes
+1)overall 2) Monthly Weekly 3) Daily
+
+Net Profit
+1)overall 2) Monthly Weekly 3) Daily
+
+Best products sold
+1)overall 2) Monthly Weekly 3) Daily
+
+Best products sold profit
+1)overall 2) Monthly Weekly 3) Daily
 
 ## The Analysis Report
 ### Revenue/Sales
@@ -110,15 +134,15 @@ The day with the highest net profit was Saturday November 16th with Ksh 5,834.50
 with lowest being Friday July 19th with Ksh -10,297.85 in net profit
 ### Product Analysis 
 #### Overall Product Analysis
-Top 3 Sales by Item
+###### Top 3 Sales by Item
 1. Mt Kenya Milk 500ml - Ksh. 34,320
 2. Eggs - Ksh. 31,280
 3. BB Bread 400g - Ksh 30,615
-Top 3 Quantity sold by Item
+###### Top 3 Quantity sold by Item
 1. Eggs - 1,564
 2. Safari Cigarette - 1,096
 3. Tomatoes - 834
-Top 3 Profit by Item
+###### Top 3 Profit by Item
 1. Eggs - Ksh. 8,862.67
 2. Mt Kenya Milk 500ml - Ksh. 8,800
 3. Safari - Ksh. 7,124
