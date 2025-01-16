@@ -152,6 +152,6 @@ Top 3 Creditors
 2. Ruth - Ksh. 10,760
 3. faith - Ksh. 10,385
 #### Credit Payback Analysis
-Total credit was Ksh 518208.55
-Total Paid Back was Ksh 103724.0
-Percentage paid back was 20.015879707117918%
+###### Total credit was Ksh 518208.55
+###### Total Paid Back was Ksh 103724.0
+###### Percentage paid back was 20.015879707117918%
